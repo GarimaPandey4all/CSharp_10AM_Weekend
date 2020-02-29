@@ -1,0 +1,19 @@
+Binary Langauge:
+
+2: 0 and 1
+
+Stack: LIFO: Last in First out
+
+OOPS:
+
+1. Class and Objects
+2. Encapsulation
+3. Abstraction
+4. Inheritance
+5. Polymorphism
+6. Exception handling
+
+functions
+variables
+operators
+Loops and Arrays
