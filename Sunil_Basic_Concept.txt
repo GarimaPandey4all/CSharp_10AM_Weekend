@@ -1,0 +1,47 @@
+Open VS Code
+
+1. Create Folder- Like: HelloWorld, Hello, Sum
+2. From Menu Bar-->Terminal-->New Terminal-->
+	i. dotnet new console
+	ii. dotnet run
+	
+	
+Comments:
+1. Single line comment: //
+2. Multiple line comment: /**/
+
+WriteLine()
+
+Write()
+
+string Ram;
+string RAM;
+
+Variable: 1 container with data type, int double char string
+
+name1
+
+int doub;
+int a=10;
+a = 20;
+
+1 byte= 8 bits
+2 bytes= 8 * 2: 16 bits
+
+data types:
+
+short int long: 4 bytes: 4 * 8= 32bits : 2 ^ 32= 
+signed and unsigned:
+
+signed int =-ve and +ve
+unsigned = +ve= 57755
+
+int a=10;
+a=20;
+
+const int a;
+
+number= 3;
+
+(number % 2)==0
+
