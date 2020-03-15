@@ -1,0 +1,28 @@
+if(true)
+{
+
+}
+
+{}
+
+if()
+{}
+else
+{}
+
+if(){}
+
+else if(){}
+
+else{}
+
+
+if(a>b)
+{
+	if(a==10)
+	{
+		consol
+	}
+}
+
+Switch(): Menu Driven Program
